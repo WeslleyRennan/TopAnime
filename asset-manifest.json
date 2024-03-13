@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TopAnime/static/css/main.b4b12c93.css",
+    "main.js": "/TopAnime/static/js/main.356a0914.js",
+    "static/js/453.c736e6a3.chunk.js": "/TopAnime/static/js/453.c736e6a3.chunk.js",
+    "static/media/logo.png": "/TopAnime/static/media/logo.c550e89ca883f2db63fd.png",
+    "index.html": "/TopAnime/index.html",
+    "main.b4b12c93.css.map": "/TopAnime/static/css/main.b4b12c93.css.map",
+    "main.356a0914.js.map": "/TopAnime/static/js/main.356a0914.js.map",
+    "453.c736e6a3.chunk.js.map": "/TopAnime/static/js/453.c736e6a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b12c93.css",
+    "static/js/main.356a0914.js"
+  ]
+}

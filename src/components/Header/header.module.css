@@ -5,7 +5,8 @@ header{
     position: fixed;
 }
 .Home{
-    background-color: #201F1F;
+    background-color: #201f1fd2;
+    transition: 0.5s;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -44,10 +45,11 @@ li:hover{
 .boxPesquisa{
     width: 100%;
     height: 40px;
-    transition: 1s;
+    transition: 0.2s;
     transform: translate(0px, -40px);
     position: relative;
     z-index: -1;
+    visibility: hidden;
 }
 .pesquisa{
     width: 100%;

@@ -4,17 +4,17 @@
     padding: 0;
 }
 body{
-    background-color: #001839;
+    background-color: #131619;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
 ::-webkit-scrollbar{
-    width: 7px;
+    width: 5px;
     border-radius: 5px;
     background-color: white;
 }
 ::-webkit-scrollbar-thumb{
-    width: 10px;
-    background-color: #0085FF;
+    width: 5px;
+    background-color: #EA303E;
     border-radius: 5px;
 }

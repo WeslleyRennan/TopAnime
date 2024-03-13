@@ -19,13 +19,11 @@ function header(){
     function remover(){
         let lupa = document.getElementById('boxPesquisa')
         let Xlupa = document.getElementById('Xlupa')
-        if(lupa.style.transform === 'translate(0px, 0px)'){
-             lupa.style.transform = 'translate(0px, -40px)'
-             lupa.style.visibility = 'hidden'
+        if(lupa.style.height === '40px'){
+             lupa.style.height = '0px'
              Xlupa.src = Lupa
         }else{
-            lupa.style.transform = 'translate(0px, 0px)'
-            lupa.style.visibility = 'visible'
+            lupa.style.height = '40px'
             Xlupa.src = X
         }
     }

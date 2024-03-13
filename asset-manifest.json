@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TopAnime/static/css/main.db9a8aeb.css",
-    "main.js": "/TopAnime/static/js/main.eaea64bc.js",
+    "main.css": "/TopAnime/static/css/main.32615e90.css",
+    "main.js": "/TopAnime/static/js/main.153ff8da.js",
     "static/js/453.c736e6a3.chunk.js": "/TopAnime/static/js/453.c736e6a3.chunk.js",
     "static/media/shinge-fundo.png": "/TopAnime/static/media/shinge-fundo.1b63b884fcaf35e0d2dd.png",
     "static/media/kime-fundo.png": "/TopAnime/static/media/kime-fundo.60e64be1dc8571918fef.png",
@@ -11,12 +11,12 @@
     "static/media/x.png": "/TopAnime/static/media/x.c3d07b553300c4483bcf.png",
     "static/media/logo.png": "/TopAnime/static/media/logo.c550e89ca883f2db63fd.png",
     "index.html": "/TopAnime/index.html",
-    "main.db9a8aeb.css.map": "/TopAnime/static/css/main.db9a8aeb.css.map",
-    "main.eaea64bc.js.map": "/TopAnime/static/js/main.eaea64bc.js.map",
+    "main.32615e90.css.map": "/TopAnime/static/css/main.32615e90.css.map",
+    "main.153ff8da.js.map": "/TopAnime/static/js/main.153ff8da.js.map",
     "453.c736e6a3.chunk.js.map": "/TopAnime/static/js/453.c736e6a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db9a8aeb.css",
-    "static/js/main.eaea64bc.js"
+    "static/css/main.32615e90.css",
+    "static/js/main.153ff8da.js"
   ]
 }
